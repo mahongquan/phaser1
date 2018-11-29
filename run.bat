@@ -1,1 +1,0 @@
-D:\nodejs\node_modules\.bin\http-server
